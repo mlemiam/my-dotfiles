@@ -40,7 +40,7 @@
 * Gnome shell
   * [Orchis-pink-dark-compact](https://github.com/vinceliuice/Orchis-theme)
 * Applications
-  * [Orchis-pink-dark-compact](https://github.com/vinceliuice/Orchis-theme)
+  * [Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 * Icons
   * [Papirus-dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 * Cursor
